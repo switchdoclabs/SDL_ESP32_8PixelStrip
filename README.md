@@ -16,6 +16,13 @@ This library uses the Martin F. Falatic Library and is based on public domain co
 
 
 You will need to set your ESP32 board type in the Arduino IDE and make sure you have installed the ESP32 SDK.
+In order to install the Arduino IDE with support for the ESP32 on the BC24, please follow the tutorial here:
+
+http://www.switchdoc.com/2018/07/tutorial-arduino-ide-esp32-bc24/
+
+Select the Adafruit ESP32 Feather under Tools
+
+Plug a USB Micro to USB connector into your computer (the one with the power supply will work) to establish the connection.
 
 
 
